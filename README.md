@@ -1,22 +1,17 @@
 # 插件钱包相关研究分享
 
-1、谷歌插件<br>
-2、钱包<br>
+1、钱包<br>
+2、谷歌插件<br>
 3、个人分享<br>
 
-# 谷歌插件
-
-谷歌插件开发文档：https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=zh-cn<br>
-Unisat开源文档：https://github.com/unisat-wallet<br>
-
-
 # 钱包
-钱包：Unisat、Wizz、OKX、Xverse<br>
+
 协议：Ordinals、Atomicals<br>
+钱包：Unisat、Wizz、OKX、Xverse<br>
 
-ordinance协议: https://docs.ordinals.com/<br>
+Ordinals协议: https://docs.ordinals.com/<br>
 
-产物BRC20标准<br>
+BRC20标准<br>
 ```bash
 {
   "p": "brc-20",
@@ -40,9 +35,13 @@ ordinance协议: https://docs.ordinals.com/<br>
 ```
 
 Atomicals协议: https://docs.atomicals.xyz/ <br>
-产物ARC20标准<br>
+ARC20标准<br>
+https://atomicals.3p-labs.com/arc20-dai-bi
 
+# 谷歌插件
 
+谷歌插件开发文档：https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=zh-cn<br>
+Unisat开源文档：https://github.com/unisat-wallet<br>
 
 # 个人分享
 
