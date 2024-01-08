@@ -6,21 +6,17 @@
 
 # 谷歌插件
 
-会上演示unisat插件钱包的源码<br>
 谷歌插件开发文档：https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=zh-cn<br>
 Unisat开源文档：https://github.com/unisat-wallet<br>
 
 
 # 钱包
-钱包：unisat、wizz、Xverse<br>
+钱包：Unisat、Wizz、OKX、Xverse<br>
 协议：Ordinals、Atomicals<br>
 
-ordinance协议
-1、序数
-2、铭文
+ordinance协议: https://docs.ordinals.com/<br>
 
-
-BRC20标准
+产物BRC20标准<br>
 ```bash
 {
   "p": "brc-20",
@@ -42,6 +38,10 @@ BRC20标准
   "amt": "1000"
 }
 ```
+
+Atomicals协议: https://docs.atomicals.xyz/ <br>
+产物ARC20标准<br>
+
 
 
 # 个人分享
