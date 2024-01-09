@@ -1,13 +1,26 @@
 # 插件钱包相关研究分享
 
-1、钱包<br>
+1、协议/钱包<br>
 2、谷歌插件<br>
 3、个人分享<br>
 
-# 钱包
+# 协议/钱包
 
 协议：Ordinals、Atomicals、闪电网络、Taproot、Nostr、RGB、RUNE<br>
 钱包：Unisat、Wizz、OKX、Xverse、BitMask<br>
+
+闪电网络: 支付通道，解决性能问题<br>
+Taproot: 为比特币区块链上发行、发送资产提供核心功能，实现更高的隐私和可扩展性<br>
+Nostr: 消息协议，去中心化的社交网络<br>
+RGB: 是图灵完备的可以有复杂的合约搭建商业应用<br>
+
+钱包地址：<br>
+Taproot (P2TR)<br>
+Native Segwit（P2WPKH）<br>
+Nested Segwit (P2SH-P2WPKH)<br>
+Legacy (P2PKH)<br>
+
+![avatar](http://qiniu.eyantang.cc/WX20240109-183956.png)<br>
 
 <br>
 
@@ -38,6 +51,7 @@ Ordinals协议: https://docs.ordinals.com/<br>
 BRC20标准：https://domo-2.gitbook.io/brc-20-experiment/<br>
 Atomicals协议: https://docs.atomicals.xyz/ <br>
 ARC20标准: https://atomicals.3p-labs.com/arc20-dai-bi<br>
+BitMask钱包：https://bitmask.app/
 
 # 谷歌插件
 
@@ -46,6 +60,7 @@ Unisat插件钱包：https://github.com/unisat-wallet<br>
 
 # 个人分享
 
+1、UTXO<br>
 ![avatar](http://qiniu.eyantang.cc/WX20240108-174656.png) <br>
 ![avatar](http://qiniu.eyantang.cc/WX20240108-174714.png) <br>
 <br>
