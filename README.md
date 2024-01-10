@@ -14,7 +14,7 @@ Taproot: 为比特币区块链上发行、发送资产提供核心功能，实�
 Nostr: 消息协议，去中心化的社交网络<br>
 RGB: 是图灵完备的可以有复杂的合约搭建商业应用<br>
 
-协议特点对比：https://www.techflowpost.com/article/detail_14562.html<br>
+部分协议的特点总结：https://www.techflowpost.com/article/detail_14562.html<br>
 
 钱包地址：<br>
 Taproot (P2TR)<br>
