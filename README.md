@@ -25,6 +25,8 @@ Legacy (P2PKH)<br>
 
 ![avatar](http://qiniu.eyantang.cc/WX20240109-183956.png)<br>
 
+参考地址：https://www.youtube.com/watch?v=duSnVpSsx34<br>
+
 <br>
 
 BRC20标准<br>
