@@ -9,6 +9,7 @@
 协议：Ordinals、Atomicals、闪电网络、Taproot、Nostr、RGB、RUNE<br>
 钱包：Unisat、Wizz、OKX、Xverse、BitMask<br>
 
+
 闪电网络: 支付通道，解决性能问题<br>
 Taproot: 为比特币区块链上发行、发送资产提供核心功能，实现更高的隐私和可扩展性<br>
 Nostr: 消息协议，去中心化的社交网络<br>
@@ -62,14 +63,16 @@ Unisat插件钱包：https://github.com/unisat-wallet<br>
 
 # 个人分享
 
-1、UTXO<br>
+1、UTXO <br>
 ![avatar](http://qiniu.eyantang.cc/WX20240108-174656.png) <br>
 ![avatar](http://qiniu.eyantang.cc/WX20240108-174714.png) <br>
 <br>
-<br>
 ![avatar](http://qiniu.eyantang.cc/WX20240108-174725.png) <br>
 
-https://zhuanlan.zhihu.com/p/361854961 <br>
+参考地址：https://zhuanlan.zhihu.com/p/361854961 <br>
 
-2、买卖信号指标
-https://www.youtube.com/watch?v=00UMGUof8lo
+2、比特币和区块链原理 <br>
+https://www.youtube.com/watch?v=g_fSistU3MQ <br>
+
+3、比特币交易如何防伪 <br>
+https://www.youtube.com/watch?v=pbAVauYsqP0 <br>
